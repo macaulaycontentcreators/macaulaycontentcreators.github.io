@@ -1,2 +1,2 @@
-<meta http-equiv="refresh" content="-20;url=http://macaulaycontentcreators.carrd.co" />
+<meta http-equiv="refresh" content="-100;url=http://macaulaycontentcreators.carrd.co" />
 # Redirecting
