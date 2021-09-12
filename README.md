@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0;url=http://macaulaycontentcreators.carrd.co/" />
+<meta http-equiv="refresh" content="-5;url=http://macaulaycontentcreators.carrd.co/" />
