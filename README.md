@@ -1,5 +1,1 @@
-<script type="text/javascript">
-if (window.location == "https://macaulaycontentcreators.me") {
-   window.location.href = 'http://macaulaycontentcreators.carrd.co'; 
-}
-</script>
+<meta http-equiv="refresh" content="1;url=http://macaulaycontentcreators.carrd.co" />
